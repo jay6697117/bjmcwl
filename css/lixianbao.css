@@ -1,0 +1,10 @@
+/*弹出框*/
+.xin_box{display:none; position: fixed; width: 462px; height: 260px; background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; top: 50%; margin-top: -130px; left: 50%; margin-left: -231px; z-index: 50; padding: 22px;box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; font-family: "";}
+.xin_pp1{ font-size: 22px; color: #000000; display: block; font-family: "";}
+.xin_img1{ position:absolute; right: 22px; top: 22px; cursor: pointer;}
+.xin_a{ width: 100%; margin-top: 20px; float: left;}
+.xin_inp1{ float: left; height: 52px; border: none; border-bottom: 1px solid #e60012; line-height: 52px; width: 255px; color: #e60012; font-size: 24px; font-family: "";}
+.xin_inp2{ font-family: ""; float: left; margin-left: 16px; width: 145px; height: 53px; line-height: 52px; text-align: center; color: #fff; border: none; font-size: 24px; background: #e60012; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; cursor: pointer;}
+.xin_pp2{ font-size: 18px; font-family: "";}
+.xin_inp3{ font-family: ""; width: 100%; display:block; text-decoration:none; text-align: center; color: #fff; font-size: 24px; height: 53px; line-height: 52px; background: #e60012; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; border: none; cursor: pointer;}
+.xin_a a:hover{ color:#fff;}
