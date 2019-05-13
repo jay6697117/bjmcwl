@@ -1,0 +1,783 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北京高端网站设计-制作-建设-北京迈程网络公司</title>
+<meta name="Keywords" content="北京网站建设,北京网站制作,北京网站设计,北京网络公司,迈程网络" />
+  <meta name="Description" content="迈程网络公司是北京网站建设公司中较好的网站设计公司,专注北京网站制作,北京网站设计,多年高端网站建设经验,做网站找迈程网络公司,建站热线:400-0192-189" />
+<meta name="author" content="北京迈程网络科技有限公司  http://www.bjmcwl.cn/" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<script type="text/javascript" src="/js/w.js"></script>
+<script type="text/javascript">uaredirect("https://m.bjmcwl.cn/");</script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/style.js"></script>
+<link rel="stylesheet" href="/css/base.css">
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/animate.css">
+<link rel="stylesheet" href="/css/lixianbao.css">
+<script type="text/javascript" src="/js/demo1.js"></script>
+<script>
+document.write('<script type="text/javascript"  data-lxb-uid="25996266" data-lxb-gid="429990" src="https://lxbjs.baidu.com/api/asset/api.js?t=' + new Date().getTime() + '" charset="utf-8"></scr' + 'ipt>' );
+</script>
+</head>
+<body>
+<div class="top22">
+    <div class="div1200">
+        <div class="tp22_a fl">
+            <div class="logo fl">
+                <a href="https://www.bjmcwl.cn/"><img src="/images/index22_03.jpg" alt="北京网站建设公司-迈程网络！" ></a>
+            </div>
+            <ul class="tp22_a_box fl">
+                <li>
+                    <span><img src="/images/tit2.png"></span>
+                </li>
+            </ul>
+            <!-- <img src="/images/index22_081.png"> -->
+        </div>
+        <div class="tp22_b fr">
+            <img style="float: right;" src="/images/index22_082.png">
+            <div class="wen fr"><img src="/images/index22_13.jpg" alt="北京网站制作公司电话"></div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<div class="smenu">
+    <div class="s_nav">
+       <div class="wrap">
+            <ul>
+                <li class="li1 active">
+                    <div class="tit tit1"><a href="/"><div class="one">首页</div><div class="two">首页</div></a></div>
+                </li>
+                <li class="li2 ">
+                    <div class="tit"><a href="/about/"><div class="one">关于迈程</div><div class="two">关于迈程</div></a></div>
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li3 ">
+                    <div class="tit"><a href="/wzjs/"><div class="one">网站建设</div><div class="two">网站建设</div></a></div>
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li4 ">
+                    <div class="tit"><a href="/yddjs/"><div class="one">移动端建设</div><div class="two">移动端建设</div></a></div>
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li5 ">
+                    <div class="tit"><a href="/dnr/"><div class="one">营销托管</div><div class="two">营销托管</div></a></div>
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li6 ">
+                    <div class="tit"><a href="/case/"><div class="one">网站案例 </div><div class="two">网站案例 </div></a></div>    
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li7 ">
+                    <div class="tit"><a href="/news/"><div class="one">信息中心</div><div class="two">信息中心</div> </a></div>
+                    <b><img src="/images/9_0b.png" /></b>
+                </li>
+                <li class="li8 ">
+                    <div class="tit"><a href="/contact/"><div class="one">联系我们</div><div class="two">联系我们 </div> </a></div>
+                </li>
+            </ul>
+        <div class="clear"></div>
+       </div>
+    </div>
+    <div class="nav_con">
+        <div class="slide0 slide"></div>
+        <div class="slide slide1 gynav" data-height="247">
+            <div class="wrap">
+                <ul >
+                    <li class="li1" style="padding: 26px 27px 0px 0px ;">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/about/index.html">
+                                <img src="/images/9_03.png" >
+                            </a>
+                        </div>
+                        <a href="/about/index.html">
+                            <p style="text-align: center;margin-bottom: 0px;margin-top: 20px;">公司简介</p>
+                        </a>
+                    </li>
+                    <li class="li2" style="padding: 26px 27px;">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/about/culture.html">
+                                <img src="/images/9_03_03.png" />
+                            </a>
+                        </div>
+                        <a href="/about/culture.html"><p style="text-align: center;margin-bottom: 0px;margin-top: 20px;">公司文化</p></a>
+                    </li>
+                    <li class="li3" style="padding: 26px 27px;">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/about/values.html">
+                                <img src="/images/9_0_03.png" />
+                            </a>
+                        </div>
+                        <a href="/about/values.html"><p style="text-align: center;margin-bottom: 0px;margin-top: 20px;">价值观</p></a>
+                    </li>
+                    <li class="li4" style="padding: 26px 27px;">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/about/djs.html">
+                                <img src="/images/9_05.png" />
+                            </a>
+                        </div>
+                       
+                        <a href="/about/job.html"><p style="text-align: center;margin-bottom: 0px;margin-top: 20px;">招贤纳士</p></a>
+                    </li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="slide slide2 gynav" data-height="247">
+            <div class="wrap">
+                <ul >
+                    <li class="li1">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/">
+                                <img src="/images/2_7.png" />
+                            </a>
+                        </div>
+                        <a href="/wzjs/"><p style="text-align: center;margin-top: 20px;">网站建设</p></a>
+                    </li>
+                    <li class="li6">                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/qwyx.html">
+                                <img src="/images/2_033.png" >
+                            </a>
+                        </div>
+                        <a href="/wzjs/qwyx.html">
+                            <p style="text-align: center;margin-top: 20px;">全网营销网站</p>
+                        </a>
+
+                    </li>
+                    <li class="li2">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/gdsj.html">
+                                <img src="/images/2_3_03.png" />
+                            </a>
+                        </div>
+                        <a href="/wzjs/gdsj.html"><p style="text-align: center;margin-top: 20px;">高端设计网站</p></a>
+                    </li>
+                    <li class="li3">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/qyjs.html">
+                                <img src="/images/qiye_dt.jpg" />
+                            </a>
+                        </div>
+                        <a href="/wzjs/qyjs.html"><p style="text-align: center;margin-top: 20px;">企业展示网站</p></a>
+                    </li>
+                    <li class="li4">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/planning.html">
+                                <img src="/images/2_5.png" />
+                            </a>
+                        </div>
+                        <a href="/wzjs/planning.html"><p style="text-align: center;margin-top: 20px;">购物商城网站</p></a>
+                    </li>
+                    <li class="li5">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/wmwz.html">
+                                <img src="/images/waimao_dt.png" />
+                            </a>
+                        </div>
+                        <a href="/wzjs/wmwz.html"><p style="text-align: center;margin-top: 20px;">外贸网站</p></a>
+                    </li>
+                    <li class="li7">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/wzjs/wzgb.html">
+                                <img src="/images/2_73.png" />
+                            </a>
+                        </div>
+                    	<a href="/wzjs/wzgb.html"><p style="text-align: center;margin-top: 20px;">网站改版</p></a>
+                    </li>
+
+                </ul>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="slide slide3" data-height="247">
+            <div class="wrap">
+                <ul style="width:1090px;">
+                    <li class="li3">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/yddjs/">
+                                <img src="/images/2_023.png" />
+                            </a>
+                        </div>                        <a href="/yddjs/"><p style="text-align: center;margin-top: 20px;">响应式网站</p></a>
+                    </li>
+                    <li class="li1">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/yddjs/phone.html">
+                                <img src="/images/mobile_dt.png" />
+                            </a>
+                        </div>
+                        <a href="/yddjs/phone.html"><p style="text-align: center;margin-top: 20px;">手机网站</p></a>
+                    </li>
+                    <li class="li2">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/yddjs/micro.html">
+                                <img src="/images/2_05_05.png" />
+                            </a>
+                        </div>
+                        <a href="/yddjs/micro.html"><p style="text-align: center;margin-top: 20px;">微信网站</p></a>
+                    </li>
+                    <li class="li2">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/yddjs/wxxcx.html">
+                                <img src="/images/2_05_05-.png" />
+                            </a>
+                        </div>
+                        <a href="/yddjs/wxxcx.html"><p style="text-align: center;margin-top: 20px;">微信小程序</p></a>
+                    </li>
+                    <li class="li4">
+                        <div class="li_img" style="margin-top: 28px;">
+                            <a href="/yddjs/app.html">
+                                <img src="/images/mobile_dt1.png" />
+                            </a>
+                        </div>
+                        <a href="/yddjs/app.html"><p style="text-align: center;margin-top: 20px;">APP制作</p></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="slide slide4"></div>
+		<div class="slide slide5"></div>
+        <div class="slide slide6 x_nav" data-height="247">
+            <div class="wrap">
+                <ul>
+                    <li class="li2" style="width:302px">
+                        <div class="li_img">
+                            <a href="/gsxw/">
+                                <img src="/images/48_03.jpg" >
+                            </a>
+                        </div>
+                        <a href="/gsxw/"><p>公司新闻</p></a>
+                    </li>
+                     <li  style="width:302px">
+                        <div class="li_img">
+                            <a href="/seo/">
+                                <img src="/images/4_05.png" >
+                            </a>
+                        </div>
+                        <a href="/seo/">
+                                <p>网站优化</p>
+                            </a>
+                    </li>
+                    <li  style="width:302px">
+                        <div class="li_img">
+                            <a href="/zhishi/">
+                                <img src="/images/4_03.png" >
+                            </a>
+                        </div>
+                        <a href="/zhishi/"><p>建站知识</p></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="slide slide7"></div>
+    </div>
+</div>
+<style type="text/css">
+</style>
+<div class="banner_box">
+	<ul id="qiuye_i" style="left: -5px;bottom: 0px;"></ul>
+ 	<ul id="img_ul">
+        <li class="banner_115 banner" style="cursor: pointer;">
+            <div class="banner" style="width: 100%;">
+                <div class="banner_con1">
+                    <div class="div1200">
+                      <!-----<div class="img1"><img src="images/i1_03.png" /></div>-------->
+                    <div class="img2"><img src="images/i1_07.png" /></div>
+                      <div class="img3"><a href="http://p.qiao.baidu.com/cps/chat?siteId=12351662&userId=25996266&cp=dangqianwangzhi&cr=laiyuan&cw=shuoming" target="_blank"><img src="images/i2_03.png" /></a></div>
+                    </div>
+                </div>
+            </div>
+        </li>
+ 		<li class="banner_115 banner">
+            <img src="images/anner2016ok_31.jpg" class="bannerimg"/>
+            <div class="banner_con">
+                <div class="wrap">
+                    <div class="center">
+                        <img class="img2" src="images/nner2016_43.png" >
+                        <img class="img3" src="images/nner2016ok1_48.png" >
+                        <img class="img4" src="images/nner2016ok10_51.png" >
+                    </div>
+                </div>
+            </div>
+             <div class="left fl">
+                <img src="images/r2016ok10_37.png" />
+            </div>
+            <div class="right fr">
+                <img src="images/anner2016ok10_39.png" />
+            </div>
+        </li>
+ 	</ul>
+ </div>
+ <div class="index-first">
+ <h2>我们能为您做些什么？</h2>
+ <span>OUR SERVICES</span>
+ <p>迈程网络专注PC网站建设、手机网站建设、APP、小程序定制开发，为企业解决建站难题</p>
+ </div>
+<div class="index" style="padding-top: 0px;">
+   <div class="wjs" style="padding-bottom: 15px;">
+        <div class="wrap">
+            <div class="inner">
+                <div class="list list1 wow">
+                    <div class="title">企业网站建设</div>
+                    <ul>
+                        <li>
+                            <a href="/wzjs/qwyx.html">
+                                <div class="li_img fl">
+                                    <img src="images/145_10.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">全网营销型网站建设</div>
+                                    <div class="li_txt">PC网站+手机网站+微信网站+企业视频宣传片=全方位,全渠道展示!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/wzjs/gdsj.html">
+                                <div class="li_img fl">
+                                    <img src="images/1r_13.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">高端品牌网站设计</div>
+                                    <div class="li_txt">整个网站设计围绕企业形象进行设计,以创意元素设计,由迈程资深设计师设计!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/wzjs/qyjs.html">
+                                <div class="li_img fl">
+                                    <img src="images/14_15.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">普通展示网站制作</div>
+                                    <div class="li_txt">适合小企业首次制作网站,展示为主,质优价廉,快速建站,宣传为主!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="list list2 wow">
+                    <div class="title">移动网站建设</div>
+                    <ul>
+                        <li>
+                            <a href="/yddjs/">
+                                <div class="li_img fl">
+                                    <img src="images/14_22.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">响应式网站设计</div>
+                                    <div class="li_txt">可以自动识别屏幕宽度,<br/>
+并做出相应调整的网页设计!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/yddjs/phone.html">
+                                <div class="li_img fl">
+                                    <img src="images/14_10.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">手机网站建设</div>
+                                    <div class="li_txt">在移动互联网建立手机网站,显得尤为重要,手机网站更多的是让客户多一种渠道找到您！</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/yddjs/micro.html">
+                                <div class="li_img fl">
+                                    <img src="images/14_17.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">微信网站制作</div>
+                                    <div class="li_txt">移动互联网的商业服务平台,<br/>
+
+让服务号,公众号不再单调！</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="list last wow">
+                    <div class="title">商城-分销-个性网站定制</div>
+                    <ul>
+                        <li>
+                            <a href="/wzjs/planning.html">
+                                <div class="li_img fl">
+                                    <img src="images/1_10.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">购物商城网站建设</div>
+                                    <div class="li_txt">适合自主建立销售渠道的企业,<br/>
+或想通过互联网销售产品或服务！</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/wzjs/wmwz.html">
+                                <div class="li_img fl">
+                                    <img src="images/1_22.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">分销商城网站设计</div>
+                                    <div class="li_txt">适合有多级分销需求的企业,<br/>
+强大的会员系统是该网站的特点!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/wzjs/wzgb.html">
+                                <div class="li_img fl">
+                                    <img src="images/1_39.png" />
+                                </div>
+                                <div class="con fl">
+                                    <div class="li_tit">网站改版</div>
+                                    <div class="li_txt">根据需求量身定制各类运营网站,<br/>
+专接各类大型网站个性开发!</div>
+                                </div>
+                                <div class="clear"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+   </div>
+   
+   <div class="brand">
+        <div class="wrap">
+            <div class="tit" style="margin-top: 10px;">合作单位</div>
+            <div class="lik"><span>迈程网络认真服务好每一位客户,让客户满意是迈程网络的宗旨！
+</span></div>
+            <div class="list wow">
+                <ul>
+                    <li class="grey">
+                        <img src="images/1_26.png" />
+                        <div class="bg">
+                            <a ></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_04.png" />
+                        <div class="bg">
+                            <a ></a>
+                        </div>
+                    </li>
+                    <li class="grey">
+                        <img src="images/1_28.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_29_29.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey last">
+                        <img src="images/1_26_26.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_33.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey">
+                        <img src="images/1_34.jpg" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_35.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey">
+                        <img src="images/1_36.jpg" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="last">
+                        <img src="images/1_38.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey">
+                        <img src="images/1_39.jpg" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_40.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey">
+                        <img src="images/1_41.jpg" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="images/1_42.png" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                    <li class="grey last">
+                        <img src="images/1_43.jpg" />
+                        <div class="bg">
+                            <a></a>
+                        </div>
+                    </li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+   
+
+    
+    <div class="new" style="padding-bottom: 15px;">
+        <div class="wrap">
+            <div class="fl box box1">
+                <div class="title">建站知识<a href="/zhishi/" class="fr">点击进入>></a></div>
+                <div class="img">
+                    <div class="inner">
+                        <a href="/gsxw/"><img src="images/2017.jpg" alt="北京迈程网络新闻咨询" border="0"></a>                    </div>
+                </div>
+                <div class="con">
+                    <ul>
+			<li>
+                            <a href="/zhishi/1721.html">制作网站哪些问题需要更好的考虑？</a><span>2019-05-13</span>
+                        </li>
+<li>
+                            <a href="/zhishi/1720.html">网站报价和哪些因素有着直接的关系？</a><span>2019-05-11</span>
+                        </li>
+<li>
+                            <a href="/zhishi/1719.html">网站营销的具体优势体现在哪里？</a><span>2019-05-10</span>
+                        </li>
+<li>
+                            <a href="/zhishi/1718.html">网站建设制作如何处理框架结构方面的内</a><span>2019-05-09</span>
+                        </li>
+<li>
+                            <a href="/zhishi/1717.html">选择网站定做拥有真正满意的网站</a><span>2019-05-08</span>
+                        </li>
+
+                  </ul>
+                </div>
+            </div>
+            <div class="fr box box2">
+                <div class="title">网络营销<a href="/news/" class="fr">点击进入>></a></div>
+                <div class="img">
+                    <div class="inner">
+                        <a href="/zhishi/"><img src="images/1_05.jpg" alt="北京网站建站知识" border="0"></a>                    </div>
+                </div>
+                <div class="con">
+                    <ul>
+					
+                    <li><a href="/gsxw/1713.html">迈程网络关于2019年五一放假通知</a><span>2019-04-30</span></li>
+<li><a href="/gsxw/1686.html">迈程网络关于2019年清明节放假通知</a><span>2019-04-04</span></li>
+<li><a href="/hyxw/1652.html">网站公司为什么离不开创新</a><span>2019-02-07</span></li>
+<li><a href="/gsxw/1651.html">北京迈程网络2019年春节放假通知！</a><span>2019-02-02</span></li>
+<li><a href="/hyxw/1649.html">企业网页制作都要解决哪些问题？</a><span>2019-01-31</span></li>
+ 
+										 
+                  </ul>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div class="relative">
+	<ul class="flink">
+      <p>友情链接</p>
+		<li><li><a href='https://www.bjmcwl.cn/' target='_blank'>北京迈程网络</a> </li><li><a href='http://www.zw110.com' target='_blank'>广州网站建设</a> </li><li><a href='https://www.bjmcwl.cn/' target='_blank'>北京网站制作</a> </li><li><a href='https://www.etycx.com/' target='_blank'>北京网站建设</a> </li><li><a href='http://www.ziranf.com' target='_blank'>莱芜企业建站</a> </li><li><a href='http://www.defkj.com' target='_blank'>河南企业网站建设公司</a> </li><li><a href='http://www.92hi.com/' target='_blank'>商城系统开发</a> </li><li><a href='http://www.lawtime.cn/qhd' target='_blank'>秦皇岛律师咨询</a> </li><li><a href='http://www.zkseo.cn/' target='_blank'>深圳SEO优化</a> </li><li><a href='http://www.zgsydw.com/heilongjiang/' target='_blank'>黑龙江事业单位</a> </li><li><a href='http://www.wtoipo.com' target='_blank'>网络营销公司</a> </li><li><a href='http://www.buyisou.cn/' target='_blank'>上海网站建设</a> </li><li><a href='http://www.cinseo.com' target='_blank'>营口网站建设</a> </li><li><a href='https://www.bjmcwl.cn/' target='_blank'>北京网站建设</a> </li><li><a href='https://www.ihimall.cn/' target='_blank'>多用户商城系统</a> </li> </li>
+      <div class="clear"></div>
+	</ul>
+</div>
+<div class="work">
+    <div class="con">
+        <div class="wrap">
+            <span>还没开展互联网业务？</span><a href="#">马上开始 ></a>
+        </div>
+    </div>
+</div>
+<div class="r_b">
+    <ul>
+        <li>
+            <a href="http://wpa.qq.com/msgrd?v=3&uin=181888909&site=qq&menu=yes" target="_blank" id="zxzx">
+                <img src="/images/1_53.jpg" alt="北京网站设计在线咨询">
+                <p>在线咨询</p>
+            </a>
+        </li>
+        <li class="phone" id="dhzx">
+             <img src="/images/1_66.jpg" alt="北京网站建设公司电话">
+
+            <p>电话咨询</p>
+            <div class="dh">
+
+                400-0192-189
+            </div>
+        </li>
+        <li style="display: none;">
+            <a href="http://wpa.qq.com/msgrd?v=3&uin=181888909&site=qq&menu=yes" target="_blank" id="zxzx">
+                <img src="/images/1_w8.jpg" alt="北京网站设计在线咨询">
+                <p>网站咨询</p>
+            </a>
+        </li>
+        <li class="ffk">
+            <img src="/images/1_17.jpg" alt="返回北京迈程网络">
+            <p>返回顶部</p>
+        </li>
+    </ul>
+</div>
+<div class="xin_box">
+		<img src="/images/close_03.jpg" class="xin_img1">
+		<span class="xin_pp1">输入您的电话，免费获取方案报价</span>
+		<div class="xin_a">
+			<input type="text" id="telInput" class="xin_inp1" placeholder="请输入您的电话号码">
+			<button class="xin_inp2" id="callBtn">免费获取</button>
+		</div>
+		<div class="xin_a">
+			<span class="xin_pp2">您也可以咨询我们的在线客服</span>
+		</div>
+		<div class="xin_a">
+			<a class="xin_inp3" href="http://p.qiao.baidu.com/cps/chat?siteId=12351662&userId=25996266" target="_blank">在线咨询</a>
+		</div>
+	</div>
+	<script type="text/javascript">
+    function codefans() {
+        $(".xin_box").show();
+    }
+
+    setTimeout("codefans()", 15000);
+    $(function () {
+        $(".xin_img1").click(function () {
+            $(".xin_box").hide();
+            setTimeout("codefans()", 60000);
+        })
+    })
+</script>
+<script>
+ document.getElementById("callBtn").onclick = function () { 
+    lxb.call(document.getElementById("telInput"));
+}
+</script>
+<div class="footer">
+    <div class="wrap">
+        <div class="right fl">
+            <div class="img">
+                <img src="/images/index_40.jpg" alt="北京网站建设公司微信号">
+            </div>
+            <p>迈程网络公众号</p>
+        </div>
+        <div class="center fr" style="text-align:left;width: 306px;">
+            <img src="/images/footer_phone2.png">
+        </div>
+        <div class="left fl" style="padding-left:120px;">
+            <dl class="dl1">
+                <dt>关于迈程</dt>
+                <dd><a href="/about/">公司简介</a></dd>
+                <dd><a href="/about/culture.html">公司文化</a></dd>
+                <dd><a href="/about/zhengshu.html">资质证书</a></dd>
+                <dd><a href="/about/values.html">价值观</a></dd>
+                <dd><a href="/about/djs.html">大事记</a></dd>
+                <dd><a href="/contact/">联系我们</a></dd>
+            </dl>
+            <dl class="dl1">
+                <dt>网站建设</dt>
+                <dd><a href="/wzjs/index.html">北京网站建设</a></dd>
+                <dd><a href="/wzjs/qwyx.html">全网营销网站</a></dd>
+                <dd><a href="/wzjs/gdsj.html">高端设计网站</a></dd>
+                <dd><a href="/wzjs/qyjs.html">企业展示网站</a></dd>
+                <dd><a href="/wzjs/planning.html">购物商城网站</a></dd>
+                <dd><a href="/wzjs/wmwz.html">外贸网站建设</a></dd>
+            </dl>
+            <dl class="dl1">
+            	<dt>移动端建设</dt>
+                <dd><a href="/yddjs/">响应式网站</a></dd>
+                <dd><a href="/yddjs/phone.html">手机网站制作</a></dd>
+                <dd><a href="/yddjs/wxxcx.html">微信小程序</a></dd>
+                <dd><a href="/yddjs/micro.html">微信网站</a></dd>
+                <dd><a href="/yddjs/app.html">APP制作</a></dd>
+                <dd><a href="/wzjs/wzgb.html">网站改版</a></dd>
+            </dl>
+            <dl class="dl3">
+                <dt>营销托管</dt>
+                <dd><a href="/dnr/seo.html">营销托管</a></dd>
+            </dl>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="bt">
+    <div class="wrap" style="width: 1335px;">
+        <div class="fl1" style="text-align: center;margin:0px auto;">2008-2018 <a href="/">北京迈程网络科技有限公司</a> 版权所有    销售热线：400-0192-189    投诉电话：15701388794   邮箱：bjmcwl@qq.com<span>      </span><span> 京ICP备18016344号</span>
+</div>
+        <div class="clear"></div>
+    </div>
+</div>
+<script type="text/javascript">
+    function copy(str){
+        var save = function (e){
+            e.clipboardData.setData('text/plain',str);//下面会说到clipboardData对象
+            e.preventDefault();//阻止默认行为
+        }
+        document.addEventListener('copy',save);
+        document.execCommand("copy");//使文档处于可编辑状态，否则无效
+
+        alert("网址已复制好，请打开新窗口贴粘进行浏览。");  
+    }
+
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?23dcc43b67a8c41ce8a2cba3db4aead0";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<div style="display:none;"><script src="https://s22.cnzz.com/z_stat.php?id=1274155056&web_id=1274155056" language="JavaScript"></script></div>
+</body>
+</html>
